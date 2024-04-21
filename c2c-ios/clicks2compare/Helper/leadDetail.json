@@ -1,0 +1,48 @@
+{
+    "data": {
+        "lead_detail": {
+            "id": 222,
+            "n1": "SME Finacnce",
+            "email": "ankitsharma@gmail.com",
+            "Customer_name": "Ankit Sharma",
+            "phone": "917408358655",
+            "comment": "I am Okay Ankit Sharma"
+        },
+        "loan_details": {
+            "loan_amount": null,
+            "approved_By_Bank": null,
+            "income Opportunity": null
+        },
+        "task": {
+            "task_Coordinator": null,
+            "email": null,
+            "mobile": null
+        },
+        "team_leader": {
+            "team_leader": "Mortgage TL",
+            "email": "ss@clickscompare.com",
+            "mobile": null
+        },
+        "escalation": {
+            "escalation": "Sumit Sahani",
+            "email": "ss@clickscompare.com",
+            "mobile": "0554227197"
+        },
+        "referral_status_list": {
+            "Case_Logged_In": "Yes",
+            "Bank_Query_Raised(Awaiting Client Response)": "Panding",
+            "Bank_Query_Resolved": "Panding",
+            "Awaiting_Pre_approval": "Panding",
+            "Pre_approved": "Panding",
+            "Valuation_Initiated": "Panding",
+            "Valuation_Received": "Panding",
+            "FOL_Requested": "Panding",
+            "FOL_Received": "Panding",
+            "FOL_Signed": "Panding",
+            "FOL_Conditions_Fulfilled": "Panding",
+            "FOL_Submitted": "Panding",
+            "Disbursed": "Panding",
+            "Transfer_Completed": "Panding"
+        }
+    }
+}
